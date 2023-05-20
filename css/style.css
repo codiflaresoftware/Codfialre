@@ -1443,18 +1443,18 @@ ul {
 }
 
 .footer .footer-inner .footer-left .footer-heading {
-  font-size: 3.125rem;
+  font-size: 1.25rem;
   font-weight: 700;
-  line-height: 1.1;
+  line-height: 1.2;
   color: #ffffff;
   margin-bottom: 1.25rem;
   margin-top: 1rem;
-}
-
-@media (max-width: 767px) {
+  }
+  
+  @media (max-width: 767px) {
   .footer .footer-inner .footer-left .footer-heading {
-    font-size: 2rem;
-    line-height: 2.571rem;
+  font-size: 1.5rem;
+  line-height: 1.714rem;
   }
 }
 
