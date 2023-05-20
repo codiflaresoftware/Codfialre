@@ -1,0 +1,112 @@
+.footer-widgets-container {
+    padding: 0px!important;
+}
+
+.inside-footer-widgets {
+    display: initial !important;
+}
+
+.site-footer .footer-widgets-container .inner-padding {
+    padding: 0 0 0 0 !important;
+}
+
+#owl-demo-3 .owl-nav{
+    display: none !important;
+}
+
+.card-top-heading {
+  padding-top: 8rem !important;
+}
+
+.top-common-section .top-common-content .inner-wrapper-common .middle-common-heading.about {
+    margin-bottom: 2rem !important;
+}
+
+.top-common-section .top-common-content .inner-wrapper-common .middle-common-heading.dev {
+    margin-bottom: 2rem !important;
+}
+
+.work-section .work-section-one .work-section-img-one {
+    height: 36.188rem !important;
+}
+
+.common-form-section .form-section .form-filling .form-filling-group .custom-form-group {
+    margin-bottom: 0.75rem !important;
+}
+
+/*START Blog detail page css added by sonika*/
+.blog-article-content-container h2{
+    font-size: 2.125rem;
+    font-weight: 500;
+    line-height: 2.813rem;
+    color: #14042C;
+    margin-top: 20px;
+}
+.blog-article-content-container h3{
+    font-size: 1.17rem;
+    font-weight: 700;
+    line-height: 2.813rem;
+    color: #14042C;
+    margin-top: 10px;
+}
+
+.blog-article-content-container p{
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 1.4;
+    color: #14042C;
+    font-family: 'Inter', sans-serif;
+    margin-top: 10px;
+}
+.blog-article-content-container a{
+    color: #ff0035;
+    font-size: 1.125rem;
+    line-height: 1.5rem;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+}
+/*END Blog detail page css added by sonika*/
+
+
+@media (max-width: 767px)
+{   
+    .project-page .top-common-content{
+        height: 37.75rem !important;
+    }
+}
+
+.blog-article-carousel-section .blog-article-img-section-outer .blog-article-img-section .article-content-container .article-img-section {
+    height: 60%;
+}
+
+/*START Terms and condition page*/
+.legal-container tr>td {
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  margin-bottom: 1rem;
+  color: #14042C;
+  font-family: 'Inter', sans-serif;
+}
+
+ .legal-container th, td 
+{
+    padding: 20px;
+    background-color:none;
+}
+
+.legal-container ul {
+  list-style: none;
+}
+
+.legal-container .privacy-heading{
+    padding-top: 8.143rem;
+}
+/*END Terms and condition page*/
+
+
+/*START Font family for textarea in contact form 7*/
+.wpcf7-textarea{
+    font-family: lora, sans-serif;
+}
+/*END Font family for textarea in contact form 7*/
