@@ -50,12 +50,5 @@
     <changefreq>monthly</changefreq>
     <priority>0.1</priority>
   </url>
-  
-  <url>
-    <loc>https://codiflaresoftware.medium.com/codiflare-software-services-empowering-businesses-with-expertise-in-development-design-mobile-44affe97ef10</loc>
-    <lastmod>2023-05-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
 
 </urlset>
